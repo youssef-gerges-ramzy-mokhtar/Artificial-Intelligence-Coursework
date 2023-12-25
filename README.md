@@ -4,11 +4,15 @@
   1. Implementing a K-Nearest Classifier
   2. Implementing a Genetic Algorithm to perform a regression
 
-## Dataset Description (to be contd...)
-  1. // describe the amounts of training and validation data
-  2. state that the data are just points in 3d space
-  3. State that every point has either a label of 1 or -1
-  4. describe the purpose of the 4 types of files
+## Dataset Description
+  1. The dataset consists of 900 labeled data points. Of these, 360 are for training and 540 are for validation
+  2. Each data point denotes a location in 3D space, represented by coordinates (x, y, z)
+  3. Every data point has either a label of 1 or -1
+  4. There are 4 files for the dataset
+     + training_set - contains the (x, y, z) coordinates of all points in the training set
+     + training_labels - contains the labels of each data point in the training set, either 1 or -1
+     + validation_set - contains the (x, y, z) coordinates of all points in the validation set
+     + validation_labels - contains the labels of each data point in the validation set, either 1 or -1
 
 ## K-Nearest Classifier (to be contd...)
   1. // which .py file
