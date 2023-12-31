@@ -26,6 +26,6 @@
     ![image](https://github.com/youssef-gerges-ramzy-mokhtar/Artificial-Intelligence-Coursework/assets/113933501/352553b7-0240-47cc-93b7-3faf62b5785c)
     ![image](https://github.com/youssef-gerges-ramzy-mokhtar/Artificial-Intelligence-Coursework/assets/113933501/08af1d15-17a6-4659-9495-0feed1ad75ea)
   
-## Additional Notes (to be contd...)
-  1. describe the purpose of the boundry.py file
-  2. state to refer to the Report for further technical details 
+## Additional Notes
+  1. There is a 3rd additional python file called ```boundary.py``` this file is used to compute the classification error on the training and validation sets, by using the a0, a1, a2 values generated from the genetic algorithm. You will need to manually set the a0, a1, a2 values in the ```boundary.py``` file
+  2. Lastly, for a more technical understanding of the project, please refer to the ```scc361.pdf``` and ```Report.pdf``` files
